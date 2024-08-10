@@ -10,7 +10,7 @@ How to recreate Sublime C++ setup:
   a) View > Layout > Columns : 3  
   b) View > Groups > Max Columns : 2.
 
-2) Make and move the in.txt and out.txt to respective sections.
+2) Make and move the c++, in.txt and out.txt files to their respective sections.
 
 3) Go to Tools > Build System > New Build System and copy paste the contents of CPP.sublime-build file of this repo to it.
 
@@ -24,4 +24,4 @@ How to recreate Sublime C++ setup:
 
 **Note:** The in.txt and out.txt files should be in same location as the C++ file.
 
-**Tip**: Location of the both CPP.sublime-build and Preferences.sublime-settings: "C:\Users\Arshdeep\AppData\Roaming\Sublime Text\Packages\User"
+**Tip**: Location of both CPP.sublime-build and Preferences.sublime-settings files: "C:\Users\Arshdeep\AppData\Roaming\Sublime Text\Packages\User"
